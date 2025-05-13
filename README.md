@@ -1,6 +1,6 @@
 # clean-gpt-output
 
-Removes <p> tags from lists for properly formatted bullet point lists.
+Removes `p` tags from lists for properly formatted bullet point lists.
 
 Usage:
 1. Copy output
